@@ -7,7 +7,7 @@
 
 
 
-The popular arcade redemption game Whack A Mole retro game emulated using java. Guess the location of the moles to whack them down.
+The popular arcade redemption game Whack A Mole emulated using java. Guess the location of the moles to whack them down.
 
 ## Installation
 Download and extract the .zip file. Then import the folder as a project in IntelliJ.
